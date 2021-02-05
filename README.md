@@ -1,2 +1,3 @@
 #Computer Science TOLIS
-COurse material and starting codes
+
+Course material and starting codes
