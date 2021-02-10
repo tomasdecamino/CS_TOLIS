@@ -5,3 +5,11 @@ este código sencillo muestra como obtener datos del puerto serial, enviado por 
 Esta cambinación es ideal para la enseñanza de un solo lenguaje de programación (Python) que se utiliza en ambas plataformas, y hace los proyectos mucho más escalables.
 
 Se incluye el código de processing.py y el de micropython para el Micro:Bit.
+
+En el código de processing.py, las líneas
+
+```python
+    println(Serial.list())
+    myPort = Serial(this,Serial.list()[5], 115200)
+```
+Para determinar en cual puerto serial se muestran la lista de conexiones seriales, de allñí el ususario debe indicar en posición de la lista, está el microbit. Así por ejemplo en MacOSX y Linux es algo como "/dev/tty.usbmodem142402", en PC sería el COM.
