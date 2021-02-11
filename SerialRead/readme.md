@@ -16,4 +16,9 @@ En el código de processing.py, las líneas
 Para determinar en cual puerto serial se muestran la lista de conexiones seriales, de allñí el ususario debe indicar en posición de la lista, está el microbit. Así por ejemplo en MacOSX y Linux es algo como "/dev/tty.usbmodem142402", en PC sería el COM.
 
 ## ¿Qué hace el código?
-A partir del acelerómetro del microbit, se pasa la infromación del eje x por serial, el cual es usado en processig.py para mover un círculo.  La intención del código es mostrar el uso de lectura de puerto serial de la forma más sencilla posible
+A partir del acelerómetro del microbit, se pasa la infromación del eje x por serial, el cual es usado en processig.py para mover un círculo.  La intención del código es mostrar el uso de lectura de puerto serial de la forma más sencilla posible.
+
+##  Retos
+- Hacer un video juego tipo "pong"
+- Usar el eje y del microbit junto con el eje x (debe mandar dos datos separado por coma y al recibirlos se deben separar o "split")
+- Usar colores u otras formas o imagenes
