@@ -20,5 +20,5 @@ A partir del acelerómetro del microbit, se pasa la infromación del eje x por s
 
 ##  Retos
 - Hacer un video juego tipo "pong"
-- Usar el eje y del microbit junto con el eje x (debe mandar dos datos separado por coma y al recibirlos se deben separar o "split")
+- Usar el eje y del microbit junto con el eje x (debe mandar dos datos separado por coma y al recibirlos se deben separar o "split") ver [SerialRead2](https://github.com/tomasdecamino/CS_TOLIS/tree/main/SerialRead2)
 - Usar colores u otras formas o imagenes
