@@ -4,5 +4,8 @@ Un ejemplo sencillo de parity check para enviar mensajes y que el receptor detec
 
 ![Sender-Receiver](https://github.com/tomasdecamino/CS_TOLIS/blob/main/ParityMicroBit/microbit%20parity1.png)
 
-Si se presiona el botón B al mismo tiempo que el A, agrega un bit de error.  El receiver si el mensaje con cumple con un número par de 1, determina que el mensaje está corrupto y vuelve a pedir el mensaje al "sender"
+Si se presiona el botón B al mismo tiempo que el A, agrega un bit de error.  El receiver si el mensaje con cumple con un número par de 1, determina que el mensaje está corrupto y vuelve a pedir el mensaje al "sender".
+
+![Sender-Receiver-Error](https://github.com/tomasdecamino/CS_TOLIS/blob/main/ParityMicroBit/microbit%20parity2.png)
+
 
