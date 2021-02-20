@@ -1,3 +1,8 @@
 # Ejemplo de verificación de error en mensaje con ParityCheck
 
-![test](https://github.com/tomasdecamino/CS_TOLIS/blob/main/ParityMicroBit/microbit%20parity1.png)
+Un ejemplo sencillo de parity check para enviar mensajes y que el receptor detecte si hay un error en el mensaje.  Se requieren 2 MicroBits, uno ejecuta el código de sender.py, y el otro de receiver.py.  En el "sender" se presiona el botón A para enviar el mensaje, antes de enviarlo lo prepara haciendo "Parity", es decir, si hay un número impar de '1', agrega un '1' al final, y si ya hay un número par de '1', entonces agrega un '0'. El mensaje es recibido por el "receiver", que verifica la paridad, es decir, siempre deben venir un número par de 'bits'
+
+![Sender-Receiver](https://github.com/tomasdecamino/CS_TOLIS/blob/main/ParityMicroBit/microbit%20parity1.png)
+
+Si se presiona el botón B al mismo tiempo que el A, agrega un bit de error.  El receiver si el mensaje con cumple con un número par de 1, determina que el mensaje está corrupto y vuelve a pedir el mensaje al "sender"
+
