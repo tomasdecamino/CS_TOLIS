@@ -10,6 +10,12 @@ Si se presiona el botón B al mismo tiempo que el A, agrega un bit de error.  El
 
 Acá hay un [video](https://youtu.be/2qlANkPDRks) que muestra como funciona
 
+## Retos
+
+- Enviar mensajes más largos
+- Enviar textos como "Hello World"
+
+## Recursos adicionales
 
 Para entender mejor la corrección de errores, recomiendo ver este video de [Computerphile](https://youtu.be/-15nx57tbfc)
 
