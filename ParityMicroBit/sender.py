@@ -1,3 +1,7 @@
+# Tomás de Camino Beck
+# Computer Science
+# UG: Parity check, error correction, data transmission
+
 from microbit import *
 import radio
 
@@ -15,6 +19,7 @@ def sendBits(m):
 
 while True:
     # Button A sends  message.
+    # You can send any message
     message = '101011'
     display.clear()
     if button_a.is_pressed():
