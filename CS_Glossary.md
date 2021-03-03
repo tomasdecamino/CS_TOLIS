@@ -11,3 +11,6 @@ Look at these terms, if you can have an imediate idea of what they are without d
 - Decimal / Denary
 - Binary
 - Logic Gates
+- Byte rate
+- Serial communication
+- Parallel Communication
