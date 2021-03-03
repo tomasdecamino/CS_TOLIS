@@ -1,6 +1,8 @@
 # Computer Science Terms  (in no particular order)
 
-- bit
+Look at these terms, if you can have an imediate idea of what they are without directly defining them, they you'll know you understand them...
+
+- Bit
 - Byte
 - Parity Check
 - Even / Odd Parity
