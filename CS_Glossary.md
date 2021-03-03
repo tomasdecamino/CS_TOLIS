@@ -3,7 +3,10 @@
 Look at these terms, if you can have an imediate idea of what they are without directly defining them, they you'll know you understand them...
 
 - Bit
-- Byte
+- Data
+- Analog
+- Digital
+- Byte (kilo, mega, tera...)
 - Parity Check
 - Even / Odd Parity
 - Checksum
@@ -14,3 +17,28 @@ Look at these terms, if you can have an imediate idea of what they are without d
 - Byte rate
 - Serial communication
 - Parallel Communication
+- Interference
+- Debug
+- File formats (doc, txt, jpg, mp3,...)
+- Simplex Transmission
+- Duplex Transmission
+- Half-Duplex Transmission
+- Check digits
+- Automatic Repeat Request
+- URL
+- HTML
+- HTTP
+- Hacker / Hacking
+- Virus
+- Malaware
+- Spyware
+- Firewall
+- Browser
+- Modem
+- Protocol
+- Packet
+- CSS
+- mark-up / mark-down
+- MAC Address
+- IP Address
+- Cookies
