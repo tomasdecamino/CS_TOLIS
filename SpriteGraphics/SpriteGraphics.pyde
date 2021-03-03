@@ -19,13 +19,13 @@ def setup():
 def keyPressed():
     global speedX, speedY
     if keyCode == UP:
-        speedY = -3
+        speedY += -.5
     elif keyCode == DOWN:
-        speedY = 3
+        speedY += .5
     elif keyCode == LEFT:
-        speedX = -3
+        speedX += -.5
     elif keyCode == RIGHT:
-        speedX = 3
+        speedX += .5
 
 def draw():
     global posX, posY, speedX, speedY
