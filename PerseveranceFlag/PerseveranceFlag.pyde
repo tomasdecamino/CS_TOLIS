@@ -2,6 +2,7 @@
 #CS TOLIS
 #Shows how to create the Perseverance Parachute code
 #https://time.com/5942177/perseverance-rover-parachute-message/
+#UG: Use of dictionaries, lists, trigonometry, binary and ASCII code
 
 #Creates a constant array with base color
 #colors are coded as text
