@@ -1,0 +1,3 @@
+# Código del paracídas del Perseverance de la NASA
+
+No intenta reproducir exactamente el paracaídas, sino mostrar como se construye el código de colores...  escondido está el texto "DARE MIGHTY THINGS". Pueden ver el artículo en [TIME magazine que explica](https://time.com/5942177/perseverance-rover-parachute-message/)
