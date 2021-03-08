@@ -46,9 +46,9 @@ def setup():
 
 def draw():
     background('#87CEEB')
-    drawRingColor(500,60,textToColor("DARE",80,0))
+    drawRingColor(500,60,textToColor("THINGS",80,0))
     drawRingColor(400,80,textToColor("MIGHTY",80,5))
-    drawRingColor(200,80,textToColor("THINGS",80,10))
+    drawRingColor(200,80,textToColor("DARE",80,10))
 
 
 
