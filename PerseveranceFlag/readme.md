@@ -4,4 +4,4 @@ No intenta reproducir exactamente el paracaídas, sino mostrar como se construye
 
 El código está escrito en Python, pero utilizando [processing.py](https://py.processing.org/). Se puede mejorar muchísimo, pues la intención es más explicar el algoritmo que generara una replica exacta.
 
-![Flag](https://github.com/tomasdecamino/CS_TOLIS/blob/main/PerseveranceFlag/flag.png)
+![Flag](https://github.com/tomasdecamino/CS_TOLIS/blob/main/PerseveranceFlag/perseverance.jpg)
