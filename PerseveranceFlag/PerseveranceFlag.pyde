@@ -3,12 +3,12 @@
 #Shows how to create the Perseverance Parachute code
 #https://time.com/5942177/perseverance-rover-parachute-message/
 
-#Creates a constant array with base color
-#colors are coded as text
+#Creates a constant array with base color '3'
+#colors are coded as text categories
 def constantArray(n):
     return ['3' for x in range(n)]
 
-#decodes text coor label to RGB color
+#decodes text color label to RGB color
 def colorSwitch(c):
     switcher={'0':color(255,255,255),
               '1':color(255,0,0),
@@ -29,6 +29,7 @@ def drawRingColor(s,d,rot,colorCode):
         popMatrix()
         
 #creates an array with the binary code of text
+# '2' are separators
 def textToColorB(t,n,p):
     colorCode = constantArray(n)
     templist = ['2','2','2']
