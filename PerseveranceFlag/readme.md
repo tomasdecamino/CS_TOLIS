@@ -7,3 +7,8 @@ El código está escrito en Python, pero utilizando [processing.py](https://py.p
 ![Flag](https://github.com/tomasdecamino/CS_TOLIS/blob/main/PerseveranceFlag/perseverance.jpg)
 
 Es simplemente el código binario del caracter ascii. Eso si cambian el bit más sifnificativo (de 7) a 0...  el código dice "DARE MIGHTY THINGS".  No reproduje el último anillo, ese se los dejo como reto, pues hay números también
+
+## Retos
+- Crear el último anillo del paracaídas (tiene unos números y letras)
+- Hacer una interfáz (input box) para poder poner cualquier mensaje en el paracaídas
+- Colocar el mensaje en forma de bandera en lugar de paracaídas
