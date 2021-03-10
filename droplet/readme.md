@@ -7,4 +7,4 @@ Usa infromación del acelerómetro para mover una "gota" en la matriz de leds de
 - Crear un juego para colocar la gota en alguna posición
 - Mejorar la sensibilidad
 - Usar una gota más grande u otra imagen
-- Usarlo de interfaz para hacer un juego en la computadora [(combinar con )]()
+- Usarlo de interfaz para hacer un juego en la computadora [(combinar con código para enviar datos a puerto serial)](https://github.com/tomasdecamino/CS_TOLIS/tree/main/SerialRead2)
