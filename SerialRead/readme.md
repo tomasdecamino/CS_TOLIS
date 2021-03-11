@@ -18,6 +18,8 @@ Para determinar en cual puerto serial se muestran la lista de conexiones seriale
 ## ¿Qué hace el código?
 A partir del acelerómetro del microbit, se pasa la infromación del eje x por serial, el cual es usado en processig.py para mover un círculo.  La intención del código es mostrar el uso de lectura de puerto serial de la forma más sencilla posible.
 
+![Ejemplo Serial con MicroBit](https://github.com/tomasdecamino/CS_TOLIS/blob/main/SerialRead/serialexample.gif)
+
 ##  Retos
 - Hacer un video juego tipo "pong"
 - Usar el eje y del microbit junto con el eje x (debe mandar dos datos separado por coma y al recibirlos se deben separar o "split") ver [SerialRead2](https://github.com/tomasdecamino/CS_TOLIS/tree/main/SerialRead2)
