@@ -6,4 +6,4 @@ El material contiene tanto aspectos de aprendizaje del lenguaje python, como el 
 
 Los códigos en este repositorio no intentan hacer demostraciones "espectaculares" en processing, sino más bien, crear un código de partida, que puede enseñar algunos aspectos básicos, y que a partir de allí los estudiantes puedan construir con sus propias ideas, y tranformar el código en un resultado visual.
 
-También se utiliza el MicroBit programado en python con [python.microbit.org](https://python.microbit.org/v/2) para aprender python con microcontroladores, y conectar con processing para hacer interfaces físicas
+También se utiliza el MicroBit programado en python con [python.microbit.org](https://python.microbit.org/v/2) para aprender python con microcontroladores, y conectar con processing para hacer interfaces físicas.
