@@ -22,6 +22,8 @@ def setup():
         while True:
             sequence.insert(0,n)
             n = collatz(n)
+            #in principle this will always occur
+            #the conjecture is that it converges to 1
             if n==1:
                 sequence.insert(0,1) 
                 break
