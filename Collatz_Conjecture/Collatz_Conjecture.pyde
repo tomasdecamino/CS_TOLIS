@@ -20,12 +20,11 @@ def setup():
         n = i
         #using while like a repeat until
         while True:
-            sequence.append(n)
+            sequence.insert(0,n)
             n = collatz(n)
             if n==1:
-                sequence.append(1) 
+                sequence.insert(0,1) 
                 break
-        sequence.reverse()
         len = 7 #size of branches
         resetMatrix()
         translate(width/2,height)
