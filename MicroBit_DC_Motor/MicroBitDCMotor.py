@@ -5,7 +5,7 @@ from microbit import *
 from math import *
 
 compass.calibrate()
-#get initial herading in radians
+#get initial heading in radians
 directionBase = radians(compass.heading())
 
 #get motor i2c address ussually 0x59
