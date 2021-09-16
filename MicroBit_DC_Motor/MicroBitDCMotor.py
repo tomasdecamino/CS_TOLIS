@@ -1,3 +1,6 @@
+#Tomas de Camino Beck
+#Simple code to use with MicroBit
+
 from microbit import *
 from math import *
 
